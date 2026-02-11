@@ -1,10 +1,12 @@
 # Linux Configuration Files
 
-This directory contains configuration files that are manually created
-and edited on a Linux system using the `nano` text editor.
+This directory documents configuration files that are manually created
+and used on a Linux system.
 
-These files are not generated automatically. They are written directly
-by the user to control system behavior.
+## GameMode Configuration File
 
-The purpose of this directory is to document and version configuration
-files that exist on the local Linux system.
+The file `gamemode.ini` stored in this directory represents the real
+configuration file used by GameMode on the Linux system, located at:
+
+```bash
+~/.config/gamemode.ini
