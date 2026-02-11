@@ -3,20 +3,21 @@
 This directory documents configuration files that are manually created
 and used on a Linux system.
 
-## GameMode Configuration File
+# GameMode Configuration File
 
 The file `gamemode.ini` stored in this directory represents the real
 configuration file used by GameMode on the Linux system, located at:
 
 ```bash
 ~/.config/gamemode.ini
+```
 
-## Using GameMode and MangoHud with Steam
+# Using GameMode and MangoHud with Steam
 
 This project relies on GameMode to apply the system configuration defined
 in `~/.config/gamemode.ini`.
 
-### Enabling GameMode in Steam
+# Enabling GameMode in Steam
 
 To enable GameMode for a game in Steam:
 
@@ -26,8 +27,10 @@ To enable GameMode for a game in Steam:
 
 ```bash
 gamemoderun %command%
+```
 
 Or, if you prefer, use MangoHud.
 
 ```bash
 gamemoderun mangohud %command%
+```
