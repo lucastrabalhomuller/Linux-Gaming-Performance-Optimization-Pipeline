@@ -17,6 +17,15 @@ configuration file used by GameMode on the Linux system, located at:
 This project relies on GameMode to apply the system configuration defined
 in `~/.config/gamemode.ini`.
 
+# Install MangoHub
+
+In the Linux terminal, use the command to install Mangohub.
+
+```bash
+sudo apt update
+sudo apt install mangohud
+```
+
 # Enabling GameMode in Steam
 
 To enable GameMode for a game in Steam:
