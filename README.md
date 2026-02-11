@@ -41,3 +41,7 @@ similar Linux systems.
 - Automated benchmarking
 - Support for additional distributions
 - Extended metrics analysis
+
+## System Integration
+This project integrates GameMode with Linux power management by dynamically
+switching CPU performance profiles when gaming sessions start and end.
